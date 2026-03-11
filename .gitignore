@@ -1,0 +1,7 @@
+echo backend/target/ > .gitignore
+echo frontend/node_modules/ >> .gitignore
+echo frontend/dist/ >> .gitignore
+echo .idea/ >> .gitignore
+echo .vscode/ >> .gitignore
+echo *.iml >> .gitignore
+echo .claude/ >> .gitignore

@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "backend",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": ["/c", "C:\\Users\\somnath das\\Desktop\\Backup\\healthdash\\backend\\mvnw.cmd spring-boot:run"],
+      "cwd": "C:\\Users\\somnath das\\Desktop\\Backup\\healthdash\\backend",
+      "port": 8080
+    },
+    {
+      "name": "frontend",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": ["/c", "npm run dev"],
+      "cwd": "C:\\Users\\somnath das\\Desktop\\Backup\\healthdash\\frontend",
+      "port": 5173
+    }
+  ]
+}
